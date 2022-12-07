@@ -7,4 +7,3 @@ This repository is intended to be used as base for creating fissile[1] docker[2]
 [2] [http://docker.io](http://docker.io)
 
 [3] [https://www.cloudfoundry.org/](https://www.cloudfoundry.org/)
-
